@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureLabs Az204", "AzureLabs Az204\AzureLabs Az204.csproj", "{BD781331-0155-4343-8821-B5CB7591BBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage - Blob Operations", "Storage - Blob Operations\Storage - Blob Operations.csproj", "{D4B55E59-D780-42CB-BC5B-BFA7D2BDDB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD781331-0155-4343-8821-B5CB7591BBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD781331-0155-4343-8821-B5CB7591BBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD781331-0155-4343-8821-B5CB7591BBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD781331-0155-4343-8821-B5CB7591BBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B55E59-D780-42CB-BC5B-BFA7D2BDDB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B55E59-D780-42CB-BC5B-BFA7D2BDDB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B55E59-D780-42CB-BC5B-BFA7D2BDDB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B55E59-D780-42CB-BC5B-BFA7D2BDDB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F93811-9169-4E4E-868F-489E40701AD3}
+	EndGlobalSection
+EndGlobal
